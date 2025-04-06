@@ -36,6 +36,15 @@
 * [license](#license)
 
 <br/>
+
+### 👋 Hi, I'm Your Name!
+
+I'm a data analytics graduate with experience in AI engineering, machine learning, and data science. I enjoy solving real-world problems using Python, SQL, and ML techniques.
+
+🔧 **Tech**: Python, Scikit-learn, TensorFlow, R, SQL  
+📊 **Interests**: Predictive modeling, Big Data systems, NLP  
+
+<br/>
 <p align="center">
   <img src="http://i.imgur.com/ZhKXrKZ.png">
 </p>
